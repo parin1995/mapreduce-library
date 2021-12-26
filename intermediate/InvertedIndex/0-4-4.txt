@@ -1,8 +1,8 @@
-<feel,0>
-<lot,3>
-<job,0>
 <feel,3>
-<example,1>
 <example,0>
+<job,0>
+<lot,3>
 <doing,2>
+<feel,0>
 <another,1>
+<example,1>

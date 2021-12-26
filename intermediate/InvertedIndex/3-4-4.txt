@@ -1,9 +1,9 @@
+<lot,15>
+<doing,14>
 <feel,15>
 <another,13>
-<example,12>
+<of,12>
+<feel,12>
 <job,12>
 <example,13>
-<lot,15>
-<feel,12>
-<doing,14>
-<of,12>
+<example,12>
